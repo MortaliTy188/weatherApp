@@ -3,7 +3,7 @@ const resultWrap = document.querySelector(".result-wrap");
 const cityInput = document.querySelector(".city-input");
 
 document.getElementById("button").addEventListener("click", () => {
-  const APIKey = "5dcc35fc5e4264e5d14f723089c77600";
+  const APIKey = "YOUR API";
 
   const city = cityInput.value;
 
